@@ -1,6 +1,7 @@
 # hello-world
-This is my first repository
 
-My name is Ben, I like sports.
+# About Me
+My name is Ben Shabaz, I'm currently a junior at The University of Iowa and I am a Business Analytics and Information Systems Major
+
 
 
