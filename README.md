@@ -11,4 +11,4 @@ I'm currently involved in KRUI radio, *Delta Sigma Phi fraternity* and *Phi Gamm
 
 ## My Favorite Quote
 In the words of the great Wayne Gretzky
-<You miss 100% of the shots you don't take
+>You miss 100% of the shots you don't take
